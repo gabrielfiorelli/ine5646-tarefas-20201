@@ -14,9 +14,6 @@ Este exercício explora a situação onde duas aplicações para web independent
 
 Ambas as aplicações utilizam o serviço de troca de mensagens fornecido pela empresa [CloudAMQP](https://www.cloudamqp.com/).
 
-Login: gabgrf@hotmail.com
-Senha: syG5t26SWm2sH27
-
 ## Instruções
 
 Acesse o serviço CloudAMQP, crie uma conta.
