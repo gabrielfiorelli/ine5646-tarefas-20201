@@ -146,7 +146,7 @@ function FazPedido () {
   return (
     <div className='card'>
       <div className='card-header'>
-        <div className='card-header-title is-centered  has-background-grey-light'>
+        <div className='card-header-title has-background-grey-light'> 
           Faz Pedido
         </div>
       </div>

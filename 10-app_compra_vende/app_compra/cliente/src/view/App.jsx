@@ -3,6 +3,7 @@ import React from 'react'
 
 import FazPedido from './FazPedido.jsx'
 import VerificaPedido from './VerificaPedido.jsx'
+import BuscaAlunos from './Alunos.jsx'
 
 // FIXME Não há nada de errado com esta aplicação. Sua tarefa consiste em colocá-la
 // na sua máquina virtual na nuvem UFSC.
@@ -15,6 +16,9 @@ function App () {
         UFSC - CTC - INE - INE5646 :: Apps Compra e Vende :: Comprador
         </div>
         <div className="message-body">
+        <div className='columns'>
+            <div className='column'><BuscaAlunos /></div>
+          </div>
           <div className='columns'>
             <div className='column is-two-thirds'><VerificaPedido /></div>
             <div className='column'><FazPedido /></div>
