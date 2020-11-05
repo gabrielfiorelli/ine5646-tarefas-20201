@@ -14,9 +14,6 @@ Este exercício explora a situação onde duas aplicações para web independent
 
 Ambas as aplicações utilizam o serviço de troca de mensagens fornecido pela empresa [CloudAMQP](https://www.cloudamqp.com/).
 
-Login: gabgrf@hotmail.com
-Senha: syG5t26SWm2sH27
-
 ## Instruções
 
 Acesse o serviço CloudAMQP, crie uma conta.
@@ -44,11 +41,6 @@ O valor da URL acima é definido pelo serviço oferecido pelo **CloudAMQP**.
 
 Naturalmente, ambas as aplicações compartilham o mesmo valor de URL_RABBIT. Quanto ao valor da PORTA,
 se ambas forem executadas no mesmo computador, cada aplicação deve usar uma porta diferente.
-
-https://api.cloudamqp.com/console/7e27dd22-a391-493d-a71b-b0a953aa77c2/details
-URL_RABBIT=amqps://czianwwr:WUjEJQfUrt2igWEE1so4rx_WoJW7rYg5@jackal.rmq.cloudamqp.com/czianwwr
-Compra: 3006
-Vende: 3005
 
 ### Durante o Desenvolvimento
 
